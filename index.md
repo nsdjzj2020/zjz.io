@@ -2,7 +2,7 @@
 
 |  Date    |  Lecture    |   Homework   |  Remark    |
 | ---- | ---- | ---- | ---- |
-| 2020/9/26     |  [第一讲：课程介绍](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/%E4%B8%AD%E7%BB%8F%E4%B8%932020-01-%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pptx)    |      |      |
+| 2020/9/26     |  [第一讲：课程介绍](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/%E4%B8%AD%E7%BB%8F%E4%B8%932020-01-%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pptx)    |      | 有兴趣的同学可以阅读老师推荐的阅读材料     |
 |      |      |      |      |
 |      |      |      |      |
 |      |      |      |      |
