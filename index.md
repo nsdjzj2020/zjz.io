@@ -2,7 +2,7 @@
 
 |  Date    |  Lecture    |   Homework   |  Remark    |
 | ---- | ---- | ---- | ---- |
-| 2020/9/26     |  [第一讲：课程介绍](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/%E4%B8%AD%E7%BB%8F%E4%B8%932020-01-%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pptx)    |      | 阅读材料：[中文版]  [英文版](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/01-%20Alfred%20Marshall%2C%201842-1924.pdf)   |
+| 2020/9/26     |  [第一讲：课程介绍](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/%E4%B8%AD%E7%BB%8F%E4%B8%932020-01-%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pptx)    |      | 阅读材料：[中文版](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/01-%E5%87%AF%E6%81%A9%E6%96%AF-%E7%BA%AA%E5%BF%B5%E8%89%BE%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%E2%80%A2%E9%A9%AC%E6%AD%87%E5%B0%94.docx)  [英文版](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/01-%20Alfred%20Marshall%2C%201842-1924.pdf)   |
 |      |      |      |      |
 |      |      |      |      |
 |      |      |      |      |
