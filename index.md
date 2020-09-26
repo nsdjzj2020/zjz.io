@@ -8,35 +8,32 @@
 |      |      |      |      |
 
 
-You can use the [editor on GitHub](https://github.com/nsdjzj2020/zjz.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-### 重要通知
+### 通知
 【修改于2020/09/26】
 1. 第一次课的PPT已经上传。请同学们阅读《宏观经济学二十五讲》的前言和第1讲。强烈推荐同学们阅读凯恩斯的《纪念马歇尔》一文，这是观察这位经济学大师的绝好视角。
 2. 课程群中的所有人需要实名（格式为“姓名 学校学院”）。
 3. 同学们如果需要加老师的微信，请务必以这样的格式发邀请：“姓名 学校学院 20中”（如“张三 北大国发 20中”），以便老师进行备注。
+4. 由于教室默认的录播时间严格按照上下课时间，而徐老师的课程时间可能不严格按照这个标准，因而课程暂决定不分享本学期的录播视频，如果确实需要观看可以移步b站相关资源。 
+5. 目前该主页还十分简陋，同学们有建议欢迎反馈给我们
 
 ### 课堂加分暂定规则
 【修改于2020/09/26】
 1. 在课堂上回答问题的同学请在**当天**课程的课间以及课后将自己的学号报给助教。为了避免加分申报的混乱，因此麻烦大家**务必在当堂登记完成，过后不补**。
 2. 之后会建立相应的公示文档，公示大家的加分情况，如果按程序上报却未登记加分的同学，请及时和我们联系
-3. 第一堂课由于未事先沟通，请同学们在这周结束前将信息报给助教。
+3. 第一堂课由于未事先沟通，请同学们在这周结束前将信息报给助教，此后请按照第一条所述进行加分申报。
 4. 为了方便同学当堂找到助教以及助教工作，希望同学们可以将教师最靠左前的座位留给4位助教，非常感谢同学们！
 
-```markdown
-Syntax highlighted code block
+### 课程助教相关信息
 
+**邮箱：**
+陈方豪
+刘雅玄
+阴美琪
+林远钊 linyzmath@pku.edu.cn 
 
-[Link](url) and ![Image](src)
-```
+### 相关链接
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nsdjzj2020/zjz.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
+- [2019年春季金融经济学课程主页](https://finaecon2019s.github.io/FinaEcon2019S)
+- [2019年秋季中国经济专题课程主页](https://nsdzjz.github.io/2019f/)
+- [b站金融经济学课程视频](https://www.bilibili.com/video/BV1Bx411d714?from=search&seid=5795518368302067537)
+- [b站中国经济专题课程视频](https://www.bilibili.com/video/BV1oE411Z7TU?from=search&seid=15227530429099673866)
