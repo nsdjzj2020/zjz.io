@@ -1,4 +1,12 @@
-[toc]
+- [课程进度及任务安排](#---------)
+- [最新通知](#----)
+- [课堂加分暂定规则](#--------)
+- [课程助教相关信息](#--------)
+- [过往通知](#----)
+- [相关链接](#----)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ### 课程进度及任务安排 
 
 |  Date    |  Lecture    |   Homework   |  Remark    |
