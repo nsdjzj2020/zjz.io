@@ -5,7 +5,6 @@
 - [过往通知](#----)
 - [相关链接](#----)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ### 课程进度及任务安排 
 
