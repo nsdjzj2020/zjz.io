@@ -38,9 +38,9 @@
 
 **邮箱：(鼓励大家邮箱联系)**
 - 陈方豪 fhchen2017@nsd.pku.edu.cn
-- 刘雅玄
-- 阴美琪
-- 林远钊 linyzmath@pku.edu.cn 
+- 刘雅玄 lyxbamboo@163.com
+- 阴美琪 niki9702@163.com
+- 林远钊 linyzjoseph@outlook.com 
 
 ### 过往通知
 【通知2020/09/26】
