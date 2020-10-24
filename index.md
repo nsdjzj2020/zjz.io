@@ -13,15 +13,14 @@
 | 2020/9/26     |  [第一讲：课程介绍](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/%E4%B8%AD%E7%BB%8F%E4%B8%932020-01-%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pptx)    |      | 阅读材料：[中文版](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/01-%E5%87%AF%E6%81%A9%E6%96%AF-%E7%BA%AA%E5%BF%B5%E8%89%BE%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%E2%80%A2%E9%A9%AC%E6%AD%87%E5%B0%94.docx)  [英文版](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/01-%20Alfred%20Marshall%2C%201842-1924.pdf)   |
 |2020/10/10      |  [第二讲：中国经济的供给面分析](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/%E4%B8%AD%E7%BB%8F%E4%B8%932020-02-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E4%BE%9B%E7%BB%99%E9%9D%A2%E5%88%86%E6%9E%90.pdf)    |   3.1, 3.2, 3.3(选做), [补充题](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/%E4%B8%AD%E7%BB%8F%E4%B8%93%E8%A1%A5%E5%85%85%E9%A2%981.pdf)   | 增长计量和索洛模型   |
 |2020/10/17      |  [第三讲：发展战略和经济绩效](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/%E4%B8%AD%E7%BB%8F%E4%B8%932020-03-%E5%8F%91%E5%B1%95%E6%88%98%E7%95%A5%E4%B8%8E%E7%BB%8F%E6%B5%8E%E7%BB%A9%E6%95%88.pdf)    |  4.1    |      |
-|      |      |      |      |
+|2020/10/25      |  [第四讲：均衡经济学方法论-手写](https://github.com/nsdjzj2020/zjz.io/raw/gh-pages/%E4%B8%AD%E7%BB%8F%E4%B8%932020-05-%E5%9D%87%E8%A1%A1%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%96%B9%E6%B3%95%E8%AE%BA-%E6%89%8B%E5%86%99.pdf)    |   5.1, 5.2,6.1   |      |
 
 
 ### 最新通知
-【修改于2020/10/10】
-1. 第三次课的PPT已经上传。请同学们下周上课的课前完成布置的作业。
-2. 实在无法到达现场提交作业的同学说明原因后可以线上提交。
-3. 课程群中的所有人需要实名（格式为“姓名 学校 学院”，如 林远钊 北京大学 数学科学学院）。
-4. 下周将在课后进行习题课，请同学们尽量参加。
+【修改于2020/10/25】
+1. 第四次课的PPT已经上传。请同学们下周上课的课前完成布置的作业，并于教学网提交。
+2. 课程群中的所有人需要实名（格式为“姓名 学校 学院”，如 林远钊 北京大学 数学科学学院）。
+3. 下周将在课后进行习题课，请同学们尽量参加。
 
 
 ### 课堂加分暂定规则
